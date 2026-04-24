@@ -36,9 +36,9 @@ A sequential model consisting of:
 
 | Metric | Custom CNN | ResNet-50 |
 | :--- | :--- | :--- |
-| **Validation Accuracy** | ~72% | **~90.8%** |
+| **Validation Accuracy** | ~72.6% | **~90.7%** |
 | **Training Time** | Slow | **Fast** |
-| **Convergence** | ~15-20 Epochs | **~4-5 Epochs** |
+| **Convergence** | 20 Epochs | **5 Epochs** |
 
 ## 🚀 How to Run
 1.  Open the provided Colab notebook.
